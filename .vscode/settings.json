@@ -1,0 +1,11 @@
+{
+  "editor.minimap.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.tabSize": 2,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": { "plaintext": "javascript" },
+  "window.zoomLevel": 0,
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  }
+}
